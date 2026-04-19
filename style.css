@@ -128,11 +128,11 @@ textarea:hover{
         width: 90%;
         max-width: 400px;
     }
-     #view{
+     .view{
         display: flex;
         align-items: center;
         flex-direction: column;
-        width: 10%;
+        width: 320px;
         
     }
 
