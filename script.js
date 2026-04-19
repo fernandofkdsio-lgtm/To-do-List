@@ -27,6 +27,7 @@ function TaskAdd() {
     task.style.fontFamily = "sans-serif"
     task.style.fontSize = "13px"
 
+
     // bloc gauche (checkbox + texte)
     const left = document.createElement("div")
     left.style.display = "flex"
