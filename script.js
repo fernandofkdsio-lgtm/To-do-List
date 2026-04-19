@@ -67,7 +67,7 @@ function TaskAdd() {
     document.querySelector("#view").appendChild(task)
 
     Text.value = ""
-    
+    // Text.focus()
 }
 
 
