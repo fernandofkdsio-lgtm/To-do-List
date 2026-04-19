@@ -16,7 +16,7 @@ function TaskAdd() {
     task.style.transition = "0.5s"
     task.style.justifyContent = "space-between"
     task.style.alignItems = "center"
-    task.style.width = "440px"
+    task.style.width = "320px"
     task.style.background = "rgb(53, 53, 53)"
     task.style.height = "45px"
     task.style.marginTop = "1rem"
